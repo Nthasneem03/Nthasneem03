@@ -1,6 +1,6 @@
 👋 Hello World! I'm Naeema Thasneem, a student passionate about Electronics and Communication Engineering with a keen interest in software development.
 
-🎓 Currently pursuing a degree in Electronics and Communication Engineering.
+🎓 Currently pursuing a degree in Electronics and Communication Engineering from YIT.
 
 💻 I enjoy exploring the intersection of hardware and software, and I'm enthusiastic about developing innovative solutions.
 
