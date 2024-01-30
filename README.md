@@ -10,7 +10,7 @@
 
 📫 Reach me at: naeemathasneem03@gmial.com
 
-🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/naeema-thasneem-3480261bb
+🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/naeema-thasneem-9133852ab
 
 Happy coding! 🚀
 <!---
