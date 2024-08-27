@@ -61,7 +61,7 @@
   </a>
 </p>
 <br>
-
+![Snake animation](https://github.com/Nthasneem03/Nthasneem03/blob/output/github-contribution-grid-snake.svg)
 <h4 align="center">
   <a href="https://github.com/Nthasneem03?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
