@@ -54,10 +54,10 @@
 <h2 align="center">✨ Featured Projects ✨</h2>
 <p align="center">
   <a href="https://github.com/Nthasneem03/LuckyDice" title="LuckyDice Project">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nthasneem03&repo=LuckyDice&theme=radical&border_color=61dafb&border_radius=10">
+    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nthasneem03&repo=CreativeHorizons&theme=radical&border_color=61dafb&border_radius=10">
   </a>
   <a href="https://github.com/Nthasneem03/Alpha_Patterns-cpp" title="Alpha Patterns in C++">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nthasneem03&repo=Alpha_Patterns-cpp&theme=radical&border_color=61dafb&border_radius=10">
+    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nthasneem03&repo=DrumKit&theme=radical&border_color=61dafb&border_radius=10">
   </a>
 </p>
 <br>
