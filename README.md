@@ -49,6 +49,7 @@
 <p align="center">
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nthasneem03&layout=compact&theme=radical&border_color=61dafb&hide_border=true" alt="Top Languages" />
   <img align="center" height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nthasneem03&theme=radical" alt="Profile Details" />
+  
 </p>
 
 <h2 align="center">✨ Featured Projects ✨</h2>
@@ -58,6 +59,15 @@
   </a>
   <a href="https://github.com/Nthasneem03/Alpha_Patterns-cpp" title="Alpha Patterns in C++">
     <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nthasneem03&repo=DrumKit&theme=radical&border_color=61dafb&border_radius=10">
+  </a>
+  
+</p>
+<p align='center'>
+  <a href="https://github.com/Nthasneem03/WatchShop" title="Watch Shop">
+    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nthasneem03&repo=WatchShop&theme=radical&border_color=61dafb&border_radius=10">
+  </a>
+  <a href="https://github.com/Nthasneem03/SmartBank" title="Smart Bank">
+    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nthasneem03&repo=SmartBank&theme=radical&border_color=61dafb&border_radius=10">
   </a>
 </p>
 <br>
